@@ -1,0 +1,157 @@
+* {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+p,h1,h2,h3,h4,h5,h6,span,div {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+a.nav-link , a.dropdown-item {
+	text-transform: uppercase;
+	color: #415161 !important;
+}
+a.nav-link:hover , a.active {
+	color: #ff5151 !important;
+}
+header.top {
+	padding: 30px 50px 30px 50px;
+}
+#main {
+	background: linear-gradient(140deg, #FFFFFF00 0%, #EBEDEFDE 100%);
+	background-color: transparent;
+}
+i.fa-minus {
+	color: #ff5151;
+}
+p {
+	font-weight: 600;
+	color: #415161;
+	font-size: 1.1333333333333rem;
+    font-family: 'Poppins',sans-serif;
+}
+h1 {
+	font-size: 70px !important;
+	color: #415161;
+	font-weight: 500 !important;
+}
+p.bestquality {
+	margin-top: 20px;
+}
+p.headingdescription {
+	margin-top: 20px;
+	font-weight: normal;
+	font-size: 17px;
+}
+button.btn {
+	margin-top: 40px !important;
+	padding: 10px !important;
+	width: 200px;
+	background-color: #ff5151 !important;
+	border: none !important;
+	text-transform: uppercase !important;
+}
+div.maincontent {
+	padding: 100px 0px 0px 70px !important;
+}
+footer {
+	background-color: #313131;
+	color: white;
+}
+div.footerupper {
+	padding: 80px;
+}
+img.footer {
+	max-width:100%;
+	max-height:100%;
+	padding-bottom: 50px;
+}
+p.footer {
+	color: #c6c6c6;
+	font-size: 12.5px;
+	font-weight: normal;
+	margin-left: 50px;
+	padding: 20px;
+}
+hr {
+	color: white !important;
+}
+ul,li {
+	list-style: none;
+	list-style-type: none;
+}
+ul>li>a {
+	text-decoration: none;
+	color: rgba(255,255,255,0.63);
+}
+ul {
+	padding: 0px !important;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+ul>li>a:hover {
+	color: #ff5151;
+}
+p.footertext {
+	color: rgba(255,255,255,0.63);
+	font-weight: normal;
+	font-size: 15px;
+}
+h3.footer {
+	padding-bottom: 30px;
+	font-size: 25px;
+}
+h3.footer1 {
+	padding-bottom: 30px;
+	font-size: 23px;
+}
+#sponsers {
+	background: linear-gradient(180deg, #FFFFFF00 0%, #f9f9f9 100%);
+	background-color: transparent;
+}
+#hurry {
+    background-color: #ffffff;
+    background-image: url('https://spiffystore.co.uk/wp-content/uploads/2020/01/banner-02.jpg');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div.hurrycontent {
+	padding: 150px 0px 150px 100px !important;
+}
+h3.hurry {
+	padding-bottom: 20px;
+	color: #415161;
+	font-weight: bold;
+}
+h2.deal {
+	padding-bottom: 20px;
+	color: #415161;
+	font-weight: bold;
+}
+div.row {
+	margin-left: auto;
+	margin-right: auto;
+}
+div.mostloved {
+	text-align: center;
+	color: #415161;
+	padding: 80px 0px 80px 0px;
+}
+p.product {
+	padding-top: 10px;
+	font-size: 12px;
+	color: #abb8c3;
+}
+p.price {
+	padding-top: 10px;
+	font-size: 15px;
+	padding-bottom: 80px;
+}
+div.loved {
+	padding: 0px 50px 0px 50px;
+}
+p.producttitle {
+	font-size: 15px;
+}
